@@ -10,3 +10,21 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Architecture of the components design
+
+1. Kanban board with three columns (To Do, In Progress, Done)
+
+2 .Drag and drop functionality between columns
+
+3. Add new task modal with form validation
+
+4. API integration with JSONPlaceholder
+
+5.Loading states and error handling
+
+6.Responsive design that works on mobile and desktop
+
+7.Snackbar notifications for user feedback
+
+8.Material UI for styling and components
